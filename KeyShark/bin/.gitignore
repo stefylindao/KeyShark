@@ -1,4 +1,3 @@
-/.DS_Store
 /Animacion.class
 /App$SceneHandler.class
 /App.class
@@ -25,3 +24,6 @@
 /TiburonNegro$1.class
 /TiburonNegro.class
 /Usuario.class
+/OrganizadorCargarJuego.class
+/Pulpo.class
+/Pulpo$1.class
