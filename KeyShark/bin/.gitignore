@@ -1,3 +1,4 @@
+/.DS_Store
 /Animacion.class
 /App$SceneHandler.class
 /App.class
@@ -10,6 +11,7 @@
 /Movimiento.class
 /Objeto.class
 /OrganizadorAcercaDe.class
+/OrganizadorCargarJuego.class
 /OrganizadorGuardar.class
 /OrganizadorJuego$listener.class
 /OrganizadorJuego.class
@@ -18,12 +20,11 @@
 /Pirana$1.class
 /Pirana.class
 /ProcesarLetra.class
+/Pulpo$1.class
+/Pulpo.class
 /Sonido.class
 /Tiburon$1.class
 /Tiburon.class
 /TiburonNegro$1.class
 /TiburonNegro.class
 /Usuario.class
-/OrganizadorCargarJuego.class
-/Pulpo.class
-/Pulpo$1.class
