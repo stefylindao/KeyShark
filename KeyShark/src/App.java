@@ -27,8 +27,6 @@ import javafx.scene.image.Image;
 public class App extends Application{
 
 	private static Stage mainStage;
-	
-	//Icono en el stage
 	private Image icon = new Image(getClass().getResourceAsStream("ic.png"));
 	
 	@Override
