@@ -29,7 +29,6 @@ public class App extends Application{
 	private static Stage mainStage;
 	
 	private Image icon = new Image(getClass().getResourceAsStream("ic.png"));
-	//Esto es una prueba
 	
 	@Override
 	/**
