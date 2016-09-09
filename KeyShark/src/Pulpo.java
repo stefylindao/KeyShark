@@ -30,7 +30,6 @@ public class Pulpo extends Objeto implements Movimiento, Animacion, ProcesarLetr
 	private String letrasRestantes;
 	private String letrasIngresadas = "";
 	
-	// Pruebita
 	/**
 	 * Método que construye un objeto que representa al tiburón, 
 	 * le da una posición X y Y deseada junto a una imagen animada. 
