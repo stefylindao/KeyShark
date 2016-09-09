@@ -47,6 +47,7 @@ public class App extends Application{
 		stage.show();
 	}
 
+	//Método principal
 	public static void main (String[] args) {
 		Application.launch(args);
 	}
