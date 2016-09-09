@@ -27,7 +27,7 @@ public class Buceador extends Objeto implements Runnable, Movimiento {
 	 * @param: posicionX
 	 * @param: posicionY
 	 */
-	//última pruebita!!!!!!!!!!! al fiiiiiiiiiiiiin
+	//Espero que ya sea la ultima prueba
 	public Buceador(Double posicionX, Double posicionY) {
 		super("buceador", posicionX, posicionY, 1);
 		super.getImageView().setImage(new Image("diver.gif"));
